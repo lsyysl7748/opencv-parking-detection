@@ -1,0 +1,5 @@
+# 依赖（Python 3.8+）
+opencv-python>=4.5
+numpy>=1.20
+# 以下为可选依赖：中文画面文字渲染、GUI 显示、截图工具
+pillow>=9.0
